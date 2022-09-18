@@ -24,7 +24,7 @@ Add the above values to the environment vars and deploy the bot.
 <details>
 <summary>Local Deoploys</summary>
 <br>
-- Clone the repo:   <code>git clone [https://github.com/Ayush7445/telegram-auto_forwarder](https://github.com/Sankar8098/telegram-forwarder_auto)</code></br>
+- Clone the repo:   <code>git clone [[https://github.com/Ayush7445/telegram-auto_forwarder](https://github.com/Sankar8098/telegram-forwarder_auto](https://github.com/Sankar8098/telegram-forwarder_auto)</code></br>
 - Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/Ayush7445/telegram-auto_forwarder/blob/main/.env.sample">.env.sample</a> and fill in the values.</br>
 - Use <code>python3 bot.py</code> to start the bot.</br>  
 </details>
